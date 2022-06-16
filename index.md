@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am a 5th-year PhD in Marketing Candidate at [MIT Sloan School of Management](https://mitsloan.mit.edu/). I am on the academic job market in 2022.
+I am a 5th-year PhD Candidate in Marketing at [MIT Sloan School of Management](https://mitsloan.mit.edu/). I am on the academic job market in 2022.
 
 My research focuses on improving companies' core business strategies by utilizing machine learning, econometrics, and mathematical modeling. Currently, I am working on product returns management, targeting/personalization, and product assortment optimization. I am also interested in how consumers make decisions and search for products online. 
 

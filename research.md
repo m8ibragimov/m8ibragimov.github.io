@@ -17,7 +17,7 @@ filters, spending more time, and purchasing the last item searched are negativel
 
 <br/>
 
-<ins>**Leveraging the Power of Images in Predicting Product Return Rates**</ins> 
+<ins>**Leveraging the Power of Images in Predicting Product Return Rates**</ins> <br/> 
 Daria Dzyabura, Siham El Kihal, John R. Hauser, Marat Ibragimov<sup>*</sup>
 
 Major Revision at _Marketing Science_<br/>
@@ -27,7 +27,7 @@ Major Revision at _Marketing Science_<br/>
 
 <br/>
 
-<ins>**Transfer Learning for Personalized Marketing Promotions**</ins> 
+<ins>**Transfer Learning for Personalized Marketing Promotions**</ins> <br/> 
 Artem Timoshenko, Marat Ibragimov, Duncan I. Simester, Jonathan Parker, Antoinette Schoar
 
 
